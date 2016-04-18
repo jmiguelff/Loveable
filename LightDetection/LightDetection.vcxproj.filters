@@ -7,45 +7,6 @@
     <ClCompile Include="src\main.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\src\ofxKinect.cpp">
-      <Filter>addons\ofxKinect\src</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\src\extra\ofxKinectExtras.cpp">
-      <Filter>addons\ofxKinect\src\extra</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libfreenect\platform\windows\libusb10emu\libusb-1.0\failguard.cpp">
-      <Filter>addons\ofxKinect\libs\libfreenect\platform\windows\libusb10emu\libusb-1.0</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libfreenect\platform\windows\libusb10emu\libusb-1.0\libusbemu.cpp">
-      <Filter>addons\ofxKinect\libs\libfreenect\platform\windows\libusb10emu\libusb-1.0</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libfreenect\src\audio.c">
-      <Filter>addons\ofxKinect\libs\libfreenect\src</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libfreenect\src\cameras.c">
-      <Filter>addons\ofxKinect\libs\libfreenect\src</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libfreenect\src\core.c">
-      <Filter>addons\ofxKinect\libs\libfreenect\src</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libfreenect\src\flags.c">
-      <Filter>addons\ofxKinect\libs\libfreenect\src</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libfreenect\src\keep_alive.c">
-      <Filter>addons\ofxKinect\libs\libfreenect\src</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libfreenect\src\loader.c">
-      <Filter>addons\ofxKinect\libs\libfreenect\src</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libfreenect\src\registration.c">
-      <Filter>addons\ofxKinect\libs\libfreenect\src</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libfreenect\src\tilt.c">
-      <Filter>addons\ofxKinect\libs\libfreenect\src</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libfreenect\src\usb_libusb10.c">
-      <Filter>addons\ofxKinect\libs\libfreenect\src</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxOpenCv\src\ofxCvColorImage.cpp">
       <Filter>addons\ofxOpenCv\src</Filter>
     </ClCompile>
@@ -74,54 +35,6 @@
     </Filter>
     <Filter Include="addons">
       <UniqueIdentifier>{ba30046e-dd8d-4a4a-bb12-978876d7365d}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="addons\ofxKinect">
-      <UniqueIdentifier>{ea81e11e-8fdd-42d8-8be4-7a6eba2ce168}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="addons\ofxKinect\src">
-      <UniqueIdentifier>{e180a76b-29d0-4469-9d1c-d751addf8d5f}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="addons\ofxKinect\src\extra">
-      <UniqueIdentifier>{d14dffc6-a3d4-4337-9399-0b2099ef72b0}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="addons\ofxKinect\libs">
-      <UniqueIdentifier>{a10a27eb-5399-4eb2-819c-a0ea070de9b8}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="addons\ofxKinect\libs\libfreenect">
-      <UniqueIdentifier>{0d98a93e-5234-4105-840c-5900e8af8d4b}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="addons\ofxKinect\libs\libfreenect\include">
-      <UniqueIdentifier>{cc5f1c2f-7f3b-4058-9040-2f48964e0735}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="addons\ofxKinect\libs\libfreenect\platform">
-      <UniqueIdentifier>{f8db8f2b-7b87-4754-bc76-d8160370d69c}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="addons\ofxKinect\libs\libfreenect\platform\windows">
-      <UniqueIdentifier>{e2d199ed-8109-4f0e-a6fc-8bc0a6fa98e6}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="addons\ofxKinect\libs\libfreenect\platform\windows\libusb10emu">
-      <UniqueIdentifier>{587f6256-28dd-4dfe-baaf-bb583009784b}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="addons\ofxKinect\libs\libfreenect\platform\windows\libusb10emu\libusb-1.0">
-      <UniqueIdentifier>{443ebc05-b1cd-4137-9851-35997244d43c}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="addons\ofxKinect\libs\libfreenect\src">
-      <UniqueIdentifier>{a8c53768-ed24-4bad-a8d7-910270a5c916}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="addons\ofxKinect\libs\libusb-1.0">
-      <UniqueIdentifier>{dbf34700-c876-43ae-94c9-08e9dc6b196b}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="addons\ofxKinect\libs\libusb-1.0\include">
-      <UniqueIdentifier>{b1cea110-e973-46ba-a609-15e3b9fe549d}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="addons\ofxKinect\libs\libusb-1.0\include\libusb-1.0">
-      <UniqueIdentifier>{4f3e3c41-345f-4b1f-beff-a7816c7d37a0}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="addons\ofxKinect\libs\libusb-win32">
-      <UniqueIdentifier>{266d7ac5-9b92-4ed9-804c-75938f787251}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="addons\ofxKinect\libs\libusb-win32\include">
-      <UniqueIdentifier>{836b5ccd-2435-4803-9718-a72b2ae3ca72}</UniqueIdentifier>
     </Filter>
     <Filter Include="addons\ofxOpenCv">
       <UniqueIdentifier>{21370166-b868-4072-9868-e7c6b905a392}</UniqueIdentifier>
@@ -211,72 +124,6 @@
   <ItemGroup>
     <ClInclude Include="src\ofApp.h">
       <Filter>src</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\src\ofxBase3DVideo.h">
-      <Filter>addons\ofxKinect\src</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\src\ofxKinect.h">
-      <Filter>addons\ofxKinect\src</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\src\extra\ofxKinectExtras.h">
-      <Filter>addons\ofxKinect\src\extra</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libfreenect\include\libfreenect.h">
-      <Filter>addons\ofxKinect\libs\libfreenect\include</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libfreenect\include\libfreenect_audio.h">
-      <Filter>addons\ofxKinect\libs\libfreenect\include</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libfreenect\include\libfreenect_registration.h">
-      <Filter>addons\ofxKinect\libs\libfreenect\include</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libfreenect\platform\windows\stdbool.h">
-      <Filter>addons\ofxKinect\libs\libfreenect\platform\windows</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libfreenect\platform\windows\unistd.h">
-      <Filter>addons\ofxKinect\libs\libfreenect\platform\windows</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libfreenect\platform\windows\libusb10emu\libusb-1.0\failguard.h">
-      <Filter>addons\ofxKinect\libs\libfreenect\platform\windows\libusb10emu\libusb-1.0</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libfreenect\platform\windows\libusb10emu\libusb-1.0\libusb.h">
-      <Filter>addons\ofxKinect\libs\libfreenect\platform\windows\libusb10emu\libusb-1.0</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libfreenect\platform\windows\libusb10emu\libusb-1.0\libusbemu_internal.h">
-      <Filter>addons\ofxKinect\libs\libfreenect\platform\windows\libusb10emu\libusb-1.0</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libfreenect\platform\windows\libusb10emu\libusb-1.0\libusbemu_threads.h">
-      <Filter>addons\ofxKinect\libs\libfreenect\platform\windows\libusb10emu\libusb-1.0</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libfreenect\platform\windows\libusb10emu\libusb-1.0\libusbemu_threads_win32.h">
-      <Filter>addons\ofxKinect\libs\libfreenect\platform\windows\libusb10emu\libusb-1.0</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libfreenect\src\cameras.h">
-      <Filter>addons\ofxKinect\libs\libfreenect\src</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libfreenect\src\flags.h">
-      <Filter>addons\ofxKinect\libs\libfreenect\src</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libfreenect\src\freenect_internal.h">
-      <Filter>addons\ofxKinect\libs\libfreenect\src</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libfreenect\src\keep_alive.h">
-      <Filter>addons\ofxKinect\libs\libfreenect\src</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libfreenect\src\loader.h">
-      <Filter>addons\ofxKinect\libs\libfreenect\src</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libfreenect\src\registration.h">
-      <Filter>addons\ofxKinect\libs\libfreenect\src</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libfreenect\src\usb_libusb10.h">
-      <Filter>addons\ofxKinect\libs\libfreenect\src</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libusb-1.0\include\libusb-1.0\libusb.h">
-      <Filter>addons\ofxKinect\libs\libusb-1.0\include\libusb-1.0</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxKinect\libs\libusb-win32\include\lusb0_usb.h">
-      <Filter>addons\ofxKinect\libs\libusb-win32\include</Filter>
     </ClInclude>
     <ClInclude Include="..\..\..\..\Documents\Visual Studio 2015\Projects\of_v0.9.3_vs_release\addons\ofxOpenCv\src\ofxCvBlob.h">
       <Filter>addons\ofxOpenCv\src</Filter>

@@ -1,6 +1,7 @@
 #pragma once
 
 #include "ofMain.h"
+#include "ofxOpenCv.h"
 
 class ofApp : public ofBaseApp{
 
@@ -20,5 +21,9 @@ class ofApp : public ofBaseApp{
 		void windowResized(int w, int h);
 		void dragEvent(ofDragInfo dragInfo);
 		void gotMessage(ofMessage msg);
-		
+
+		// Here in the header (.h) file, we declare an ofImage:
+		ofImage myImage;
+		ofxCvGrayscaleImage myCvImage;
+		ofxCvContourFinder contourFinder;
 };
